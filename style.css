@@ -1,0 +1,27 @@
+body{
+    background-color: brown;
+}
+.empty{
+    background-color: transparent;
+    width: 10px;
+    height: 10px;
+    float: left;
+}
+.plain{
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    float: left;
+}
+.light{
+    background-color: whitesmoke;
+    width: 10px;
+    height: 10px;
+    float: left;
+}
+.highlight{
+    background-color: blue;
+    width: 10px;
+    height: 10px;
+    float: left;
+}
